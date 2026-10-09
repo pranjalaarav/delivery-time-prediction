@@ -1,0 +1,32 @@
+Date,Holiday_or_Festival,Type,Public_Holiday,Day,Month,Is_Weekend,Festival_Flag
+2026-01-25,Devnarayan Jayanti,Festival/Observance,No,Sunday,January,True,1
+2026-01-26,Republic Day,National Holiday,Yes,Monday,January,False,1
+2026-02-15,Maha Shivratri,Festival,No,Sunday,February,True,1
+2026-03-02,Holika Dahan,Festival,No,Monday,March,False,1
+2026-03-03,Dhulandi / Holi,Public Holiday,Yes,Tuesday,March,False,1
+2026-03-20,Cheti Chand,Festival,No,Friday,March,False,1
+2026-03-21,Eid-ul-Fitr,Festival / Public Holiday,Yes,Saturday,March,True,1
+2026-03-26,Ram Navami,Public Holiday,Yes,Thursday,March,False,1
+2026-03-31,Mahavir Jayanti,Public Holiday,Yes,Tuesday,March,False,1
+2026-04-03,Good Friday,Festival / Public Holiday,Yes,Friday,April,False,1
+2026-04-11,Mahatma Jyotiba Phule Jayanti,Festival/Observance,No,Saturday,April,True,1
+2026-04-14,Dr. B. R. Ambedkar Jayanti,Public Holiday,Yes,Tuesday,April,False,1
+2026-04-19,Parshuram Jayanti,Festival,No,Sunday,April,True,1
+2026-05-28,Eid-ul-Zuha / Bakrid,Public Holiday,Yes,Thursday,May,False,1
+2026-06-17,Maharana Pratap Jayanti,Festival/Observance,No,Wednesday,June,False,1
+2026-06-26,Muharram,Festival / Public Holiday,Yes,Friday,June,False,1
+2026-08-09,World Tribal Day,Observance,No,Sunday,August,True,1
+2026-08-15,Independence Day,National Holiday,Yes,Saturday,August,True,1
+2026-08-26,Barawafat,Festival,No,Wednesday,August,False,1
+2026-08-28,Raksha Bandhan,Public Holiday,Yes,Friday,August,False,1
+2026-09-04,Krishna Janmashtami,Public Holiday,Yes,Friday,September,False,1
+2026-09-21,Ramdev Jayanti / Teja Dashami / Khejarli Martyrs Day,Festival/Observance,No,Monday,September,False,1
+2026-10-02,Mahatma Gandhi Jayanti,National Holiday,Yes,Friday,October,False,1
+2026-10-11,Navratra Sthapana / Maharaja Agrasen Jayanti,Festival,No,Sunday,October,True,1
+2026-10-19,Durga Ashtami,Festival,No,Monday,October,False,1
+2026-10-20,Vijay Dashami / Dussehra,Public Holiday,Yes,Tuesday,October,False,1
+2026-11-08,Diwali,Festival / Public Holiday,Yes,Sunday,November,True,1
+2026-11-09,Govardhan Puja,Public Holiday,Yes,Monday,November,False,1
+2026-11-11,Bhai Dooj,Festival,No,Wednesday,November,False,1
+2026-11-24,Guru Nanak Jayanti,Public Holiday,Yes,Tuesday,November,False,1
+2026-12-25,Christmas Day,Public Holiday,Yes,Friday,December,False,1
